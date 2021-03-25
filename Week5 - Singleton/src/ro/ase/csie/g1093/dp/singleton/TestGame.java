@@ -12,5 +12,9 @@ public class TestGame {
 		
 		UIModule uiModule= new UIModule();
 		PlayerModule playerModule = new PlayerModule();
+		
+		
+		
+		
 	}
 }
